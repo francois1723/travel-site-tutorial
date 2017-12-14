@@ -23,8 +23,7 @@
 
         @mixin atSmall {
             font-size: 4.8rem;
-        }
-        
+        }  
     }
 
     &__subtitle {
@@ -51,5 +50,4 @@
             font-size: 1.875rem;
         }
     }
-
 }
