@@ -1155,6 +1155,10 @@ Edit gulp/templates/sprite.css instead
     }
     }
 
+.site-header__menu-content--is-visible {
+            display: block;
+        }
+
 .site-header__menu-icon {
         width: 20px;
         height: 20px;
